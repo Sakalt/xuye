@@ -1,0 +1,70 @@
+[
+{
+    "word": "人",
+    "mean": [
+      {
+        "partOfSpeech": "人",
+        "explanation": "人。人間。天世人。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "nai3",
+    "num": "1"
+  },
+{
+    "word": "力",
+    "mean": [
+      {
+        "partOfSpeech": "力",
+        "explanation": "力。パワー。能力。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ha1",
+    "num": "2"
+  },
+  {
+    "word": "手",
+    "mean": [
+      {
+        "partOfSpeech": "手",
+        "explanation": "手。ハンド。腕。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "taol2",
+    "num": "3"
+  },
+  {
+    "word": "手先",
+    "mean": [
+      {
+        "partOfSpeech": "手先",
+        "explanation": "手のひら。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "taol2 ya1",
+    "num": "4"
+  },
+]
