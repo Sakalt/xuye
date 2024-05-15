@@ -1,10 +1,10 @@
 [
   {
-    "word": "人",
+    "word": "力",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "人。人間。天球人。"
+        "explanation": "力。パワー。エネルギー。"
       }
     ],
     "append": [
@@ -13,7 +13,356 @@
         "explanation": ""
       }
     ],
-    "pron": "nai1",
-    "num": "1"
+    "pron": "nai3",
+    "num": "2"
+  },
+  {
+    "word": "手",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "手。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "taol2",
+    "num": "3"
+  },
+  {
+    "word": "手先",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "手のひら。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "taol2 ya3",
+    "num": "4"
+  },
+  {
+    "word": "我",
+    "mean": [
+      {
+        "partOfSpeech": "代名",
+        "explanation": "私。第一人称。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "xing3",
+    "num": "5"
+  },
+  {
+    "word": "木",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "木。地面から生える大きな植物。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "日教の三十元素の一つ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qa1",
+    "num": "5"
+  },
+  {
+    "word": "木耳",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "きのこ。マッシュルーム。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qa1 mi2",
+    "num": "-"
+  },
+  {
+    "word": "水",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "水。H2O。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "日教の三十元素の一つ。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号1(H)の略称。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "cen3",
+    "num": "6"
+  },
+  {
+    "word": "水玉",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "水滴。雫。しずく。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "cen3 li1",
+    "num": "-"
+  },
+  {
+    "word": "口",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "口。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "yaom2",
+    "num": "7"
+  },
+  {
+    "word": "食",
+    "mean": [
+      {
+        "partOfSpeech": "動",
+        "explanation": "食べる。食事する。噛んでから飲み込む。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "食べ物。食べて吸収できるすべての固体。(子供が牛のホルモン硬いとか関係なく)"
+      }
+    ],
+    "append": [
+      {
+        "type": "用",
+        "explanation": "飲み物は含まない。"
+      },
+      {
+        "type": "類",
+        "explanation": "餐。こちらは調理された料理を指す。それに対して名詞での食は生の食べ物も含む。"
+      }
+    ],
+    "pron": "bun1",
+    "num": "8"
+  },
+  {
+    "word": "果",は
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "果物。フルーツ。果実。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "naon2",
+    "num": "9"
+  },
+  {
+    "word": "赤果",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "りんご。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "ve3 naon2",
+    "num": "-"
+  },
+  {
+    "word": "汝",
+    "mean": [
+      {
+        "partOfSpeech": "代名",
+        "explanation": "あなた。第二人称。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "sul",
+    "num": "10"
+  },
+  {
+    "word": "大",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "大きい。三次元的に大きい。でかい"
+      },
+      {
+        "partOfSpeech": "形",
+        "explanation": "とても。非常に。"
+      },
+      {
+        "partOfSpeech": "副",
+        "explanation": "よく。良い。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "luong4",
+    "num": "11"
+  },
+  {
+    "word": "小",
+    "mean": [
+      {
+        "partOfSpeech": "形",
+        "explanation": "小さい。チビ"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "dun3",
+    "num": "12"
+  },
+  {
+    "word": "衆",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "人々。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "グループ。団体。"
+      },
+      {
+        "partOfSpeech": "代名",
+        "explanation": "(人称代名詞に続けて)～たち。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "gaol4",
+    "num": "13"
+  },
+  {
+    "word": "国",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "国。国家。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qim3",
+    "num": "14"
+  },
+  {
+    "word": "土",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "土。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "日教の三十元素の一つ。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "dim1",
+    "num": "15"
+  },
+  {
+    "word": "水土",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "泥。泥水。"
+      },
+      {
+        "partOfSpeech": "名",
+        "explanation": "日教の三十元素の一つ。"
+      },
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "cen3 dim1",
+    "num": "16"
   },
 ]
