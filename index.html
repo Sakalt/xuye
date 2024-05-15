@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>辞典</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" href="assets/favicon.ico">
+    </head>
+    <body>
+        <main>
+            <div class="logobox">
+                <img class="logo" src="./assets/logo.png">
+            </div>
+            <p>人工言語「
+                <a href="https://shin.fandom.com/ja" target="_blank">天語</a>
+                」のオンライン辞書です。何かあれば
+                <a href="https://twitter.com/sakaltovelo" target="_blank">X</a>
+                まで。
+            </p>
+            <div class="numbers">
+                <span id="numberofwords"></span>
+                <span id="numberofwordsjp"></span>
+            </div>
+            
+            <span class="search">
+                <input id="input" type="text">
+            </span>
+            <span class="searchOption">
+                検索方法:
+                <select id="searchrule">
+                    <option value="part" selected>部分一致</option>
+                    <option value="start">前方一致</option>
+                    <option value="end">後方一致</option>
+                    <option value="perfect">完全一致</option>
+                    <option value="regular">正規表現</option>
+                </select>
+                検索対象:
+                <select id="searchtype">
+                    <option type="radio" name="searchtype" value="word" selected>見出し語</option>
+                    <option type="radio" name="searchtype" value="pron">発音</option>
+                    <option type="radio" name="searchtype" value="mean">意味</option>
+                    <option type="radio" name="searchtype" value="num">字序 (Phun.)</option>
+                </select>
+            </span>
+            <div id="contentbox">
+                <div class="content">
+                    <div class="word">
+                        <span class="phun">こんにちは</span>
+                        <span class="trans">転写</span>
+                        <span class="pron">読み</span>
+                    </div>
+                    <div class="mean">
+                        <div class="speech">
+                            <span class="type">名詞</span>
+                            <span class="text">説明説明説明説明説明説明説明説明説明説明</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="pagebuttons">
+                <button type="button" id="first">最初のページへ</button>
+                <button type="button" id="prev">前のページへ</button>
+                <p id="pageNum"></p>
+                <button type="button" id="next">次のページへ</button>
+                <button type="button" id="last">最後のページへ</button>
+            </div>
+        </main>
+    </body>
+    <script src="main.js" type="module"></script>
+</html>
