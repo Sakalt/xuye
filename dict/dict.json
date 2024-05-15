@@ -345,24 +345,29 @@
     "pron": "dim1",
     "num": "15"
   },
-  {
-    "word": "水土",
+　{
+  "word": "火",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "泥。泥水。"
+        "explanation": "火。炎。"
       },
       {
         "partOfSpeech": "名",
         "explanation": "日教の三十元素の一つ。"
       },
+      {
+        "partOfSpeech": "名",
+        "explanation": "原子番号8(O)の略称。"
+      }
+    ],
     "append": [
       {
         "type": "",
         "explanation": ""
       }
     ],
-    "pron": "cen3 dim1",
+    "pron": "tang1",
     "num": "16"
   },
 ]
