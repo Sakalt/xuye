@@ -155,7 +155,7 @@ button {
 
 @font-face {
     font-family: "PhunWrite";
-    src: url(./fonts/PhunWrite-Regular.woff) format("woff");
+    src: url(./fonts/.ka-20240321.ttf) format("truetype");
 }
 
 @font-face {
