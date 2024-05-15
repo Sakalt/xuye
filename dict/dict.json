@@ -422,7 +422,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1",
+    "pron": "vang1",
     "num": "18"
   },
   {
@@ -430,7 +430,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "灼陽。おひさま。"
+        "explanation": "燃陽。おひさま。"
       },
       {
         "partOfSpeech": "名",
@@ -443,7 +443,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1",
+    "pron": "kaing2",
     "num": "19"
   },
   {
@@ -451,11 +451,11 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "天空。陽教において神が住まうとされる場所。"
+        "explanation": "天空。日教において神旭が住まうとされる場所。"
       },
       {
         "partOfSpeech": "名",
-        "explanation": "陽教の神素。"
+        "explanation": "日教の神素。"
       },
       {
         "partOfSpeech": "名",
@@ -468,15 +468,15 @@
         "explanation": "星としては惑星や衛星、恒星などをまとめて指す。"
       }
     ],
-    "pron": "vas1",
+    "pron": "zi2",
     "num": "20"
   },
   {
-    "word": "日天",
+    "word": "燃天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "灼陽。"
+        "explanation": "燃陽。"
       }
     ],
     "append": [
@@ -485,7 +485,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1 vas1",
+    "pron": "yuon3 zi2",
     "num": "-"
   },
   {
@@ -493,7 +493,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球月。"
+        "explanation": "天球月。"
       }
     ],
     "append": [
@@ -502,7 +502,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2 vas1",
+    "pron": "lo3 zi1",
     "num": "-"
   },
   {
@@ -510,7 +510,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "霞星。"
+        "explanation": "霧星。"
       }
     ],
     "append": [
@@ -519,7 +519,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 vas1",
+    "pron": "nel1 zi ",
     "num": "-"
   },
   {
@@ -527,7 +527,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "焔星。"
+        "explanation": "日星。"
       }
     ],
     "append": [
@@ -536,15 +536,15 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 vas1",
+    "pron": "tang1 ,zi2",
     "num": "-"
   },
   {
-    "word": "大丸",
+    "word": "大天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球。"
+        "explanation": "天球。"
       }
     ],
     "append": [
@@ -553,7 +553,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 luong3",
+    "pron": "dim3 zi3",
     "num": "-"
   },
   {
@@ -561,7 +561,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "瀧星。"
+        "explanation": "籠星。"
       }
     ],
     "append": [
@@ -570,15 +570,15 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 vas1",
+    "pron": "xe3 zi2",
     "num": "-"
   },
   {
-    "word": "土天",
+    "word": "貝天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "穀星。"
+        "explanation": "貝星。"
       }
     ],
     "append": [
@@ -587,7 +587,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3 vas1",
+    "pron": "bais2 zi2",
     "num": "-"
   },
   {
@@ -595,7 +595,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "森星。"
+        "explanation": "緑星。"
       }
     ],
     "append": [
@@ -604,15 +604,15 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 vas1",
+    "pron": "qa3 zi1",
     "num": "-"
   },
   {
-    "word": "山天",
+    "word": "緑天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "山神星。"
+        "explanation": "緑神星。"
       }
     ],
     "append": [
@@ -621,15 +621,15 @@
         "explanation": ""
       }
     ],
-    "pron": "das1 vas1",
+    "pron": "kem3 zi2",
     "num": "-"
   },
   {
-    "word": "雲天",
+    "word": "雷天",
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雲神星。"
+        "explanation": "雷神星。"
       }
     ],
     "append": [
@@ -638,7 +638,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 vas1",
+    "pron": "puong3 zi2",
     "num": "-"
   },
   {
@@ -646,7 +646,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "氷神星。"
+        "explanation": "氷天星。"
       }
     ],
     "append": [
@@ -655,7 +655,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 vas1",
+    "pron": "fun3 zi2",
     "num": "-"
   },
   {
@@ -672,11 +672,11 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 sao2",
+    "pron": "zi2 tao3",
     "num": "-"
   },
   {
-    "word": "万天",
+    "word": "億天",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -689,11 +689,11 @@
         "explanation": ""
       }
     ],
-    "pron": "ao1 vas1",
+    "pron": "xel zi2",
     "num": "-"
   },
   {
-    "word": "天船",
+    "word": "万船",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -706,7 +706,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vas1 cua3",
+    "pron": "cua3 bi1",
     "num": "-"
   },
   {
@@ -727,7 +727,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qai3",
+    "pron": "kuang2",
     "num": "21"
   },
   {
@@ -744,7 +744,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fes2",
+    "pron": "a1",
     "num": "22"
   },
   {
@@ -761,7 +761,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fes2 qai2",
+    "pron": "a1 qai3",
     "num": "-"
   },
   {
@@ -773,7 +773,7 @@
       },
       {
         "partOfSpeech": "形",
-        "explanation": "正しい。意味の通った。"
+        "explanation": "正しい。意味の通った。ちゃんとした。"
       }
     ],
     "append": [
@@ -782,7 +782,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fua3",
+    "pron": "kua2",
     "num": "23"
   },
   {
@@ -799,7 +799,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ke1 fua3",
+    "pron": "tuong3 kua2",
     "num": "-"
   },
   {
@@ -816,7 +816,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xel3",
+    "pron": "men3",
     "num": "24"
   },
   {
@@ -824,7 +824,7 @@
     "mean": [
       {
         "partOfSpeech": "動",
-        "explanation": "永球月。おつきさま。"
+        "explanation": "天球月。おつきさま。"
       }
     ],
     "append": [
@@ -833,7 +833,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2",
+    "pron": "lo3",
     "num": "25"
   },
   {
@@ -850,7 +850,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vi1",
+    "pron": "wa2",
     "num": "26"
   },
   {
@@ -867,7 +867,7 @@
         "explanation": ""
       }
     ],
-    "pron": "buan3",
+    "pron": "duo",
     "num": "27"
   },
   {
@@ -884,7 +884,7 @@
         "explanation": ""
       }
     ],
-    "pron": "gaol3",
+    "pron": "daol3",
     "num": "28"
   },
   {
@@ -901,7 +901,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fai1",
+    "pron": "nai3",
     "num": "29"
   },
   {
@@ -918,7 +918,7 @@
         "explanation": ""
       }
     ],
-    "pron": "luong1",
+    "pron": "hes3",
     "num": "30"
   },
   {
@@ -939,11 +939,11 @@
         "explanation": "声。こちらは一人で呟くことや意味のない声を出すことを指すのに対し、言は二人以上で意味のある会話をすることを指す。"
       }
     ],
-    "pron": "bun2",
+    "pron": "ten2",
     "num": "31"
   },
   {
-    "word": "伴言倫",
+    "word": "喜穏",
     "mean": [
       {
         "partOfSpeech": "感",
@@ -956,7 +956,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nuo2 bun2 tuo2",
+    "pron": "ju1 nuo2",
     "num": "-"
   },
   {
@@ -977,7 +977,7 @@
         "explanation": ""
       }
     ],
-    "pron": "zen3",
+    "pron": "jun3",
     "num": "32"
   },
   {
@@ -994,7 +994,7 @@
         "explanation": ""
       }
     ],
-    "pron": "guan1",
+    "pron": "gaol3",
     "num": "33"
   },
   {
@@ -1011,7 +1011,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 guan1",
+    "pron": "dim2 gaol3",
     "num": "-"
   },
   {
@@ -1019,7 +1019,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "旭天。雰国の王。"
+        "explanation": "皇。天国の王。"
       }
     ],
     "append": [
@@ -1028,7 +1028,7 @@
         "explanation": ""
       }
     ],
-    "pron": "juan1",
+    "pron": "xuan2",
     "num": "34"
   },
   {
@@ -1036,7 +1036,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "リーダー。トップ。最も立場が高い人。"
+        "explanation": "リーダー。トップ。最も立場が高い人。指導者。"
       }
     ],
     "append": [
@@ -1045,7 +1045,7 @@
         "explanation": ""
       }
     ],
-    "pron": "luam2",
+    "pron": "suam2",
     "num": "35"
   },
   {
@@ -1070,7 +1070,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ling3",
+    "pron": "va3",
     "num": "36"
   },
   {
@@ -1091,7 +1091,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3",
+    "pron": "da3",
     "num": "37"
   },
   {
