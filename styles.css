@@ -1,0 +1,164 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+main {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.logo {
+    width: 30%;
+}
+
+button {
+    border: none;
+    background-color: #014f41;
+    color: white;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
+
+#numberofwords {
+    font-family: "PhunWrite";
+}
+
+#numberofwords, #numberofwordsjp {
+    font-size: 20px;
+    margin: 0 10px
+}
+
+.numbers {
+    margin-bottom: 20px;
+}
+
+.logobox {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.search, .searchtype, .searchrule {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.searchOption select {
+    margin-right: 20px;
+}
+
+#input {
+    width: 80%;
+    border: 1px solid #014f41;
+    padding: 5px 8px;
+    border-radius: 2px;
+}
+
+.word {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 100%;
+}
+
+.mean span {
+    margin: 3px 5px;
+}
+
+.phun {
+    font-size: 25px;
+    font-family: "PhunWrite", serif;
+    border: solid #202020;
+    border-width: 0 5px 0 5px;
+    padding: 0 5px 0 5px;
+    background-color: #E8E8E8;
+    margin-right: 10px;
+}
+.trans {
+    font-size: 20px;
+    margin: 3px;
+}
+.weqo {
+    font-size: 15px;
+    font-family: "WeQo", serif;
+    margin: 3px 3px 3px 10px;
+    border: solid #A00000;
+    border-width: 0 0 1px 0;
+}
+.pron {
+    font-size: 15px;
+    margin: 3px;
+}
+.num {
+    font-size: 12px;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+.speech {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.type {
+    box-sizing: border-box;
+    padding: 0 0.25em 0 0.25em;
+    font-size: 14px;
+    color: white;
+    min-width: 1.5em;
+    min-height: 1.5em;
+}
+
+.apptype {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 16px;
+    text-align: left;
+}
+
+.content {
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin: 15px auto;
+}
+
+.content>div {
+    margin: 5px 0;
+    border-bottom: 0px solid black;
+}
+
+.content>div:last-child {
+    margin: 5px 0 10px 0;
+    border: none;
+}
+
+#pagebuttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pagebuttons * {
+    margin: 5px 10px;
+}
+
+.hidebutton {
+    visibility: hidden;
+}
+
+@font-face {
+    font-family: "PhunWrite";
+    src: url(./fonts/PhunWrite-Regular.woff) format("woff");
+}
+
+@font-face {
+    font-family: "WeQo";
+    src: url(./fonts/WeQoGothic.woff) format("woff");
+}
