@@ -1243,23 +1243,6 @@
     "num": "42"
   },
   {
-    "word": "足下",
-    "mean": [
-      {
-        "partOfSpeech": "名",
-        "explanation": "足の裏。"
-      }
-    ],
-    "append": [
-      {
-        "type": "",
-        "explanation": ""
-      }
-    ],
-    "pron": "kuas1 da3",
-    "num": "43"
-  },
-  {
     "word": "行",
     "mean": [
       {
