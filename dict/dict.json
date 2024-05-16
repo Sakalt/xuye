@@ -1108,7 +1108,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ya3 ha1",
+    "pron": "da3 ka1",
     "num": "-"
   },
   {
@@ -1125,7 +1125,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuo2",
+    "pron": "ke2",
     "num": "38"
   },
   {
@@ -1142,7 +1142,7 @@
         "explanation": ""
       }
     ],
-    "pron": "van3",
+    "pron": "van2",
     "num": "39"
   },
   {
@@ -1167,7 +1167,7 @@
         "explanation": ""
       }
     ],
-    "pron": "dua1",
+    "pron": "vua2",
     "num": "40"
   },
   {
@@ -1175,7 +1175,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰。雰民族や雰天国を指す。"
+        "explanation": "栄島地方。"
       },
       {
         "partOfSpeech": "動",
@@ -1188,15 +1188,15 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1",
+    "pron": "lua1",
     "num": "41"
   },
   {
-    "word": "栄国",
+    "word": "栄地",
     "mean": [
       {
-        "partOfSpeech": "名",
-        "explanation": "雰国。雰天国。"
+        "partOfSpeech": "ルアード州",
+        "explanation": ""
       }
     ],
     "append": [
@@ -1205,7 +1205,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 nun2",
+    "pron": "lua1 fun3",
     "num": "-"
   },
   {
@@ -1213,7 +1213,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "雰国の民。雰人。雰国人。"
+        "explanation": "ルアード系民族。",
       }
     ],
     "append": [
@@ -1222,7 +1222,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fun1 zom3",
+    "pron": "lua1 suol2",
     "num": "-"
   },
   {
@@ -1230,7 +1230,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "足。"
+        "explanation": "足。脚。"
       }
     ],
     "append": [
@@ -1239,7 +1239,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1",
+    "pron": "kuas1",
     "num": "42"
   },
   {
@@ -1256,7 +1256,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yuas1 ya3",
+    "pron": "kuas1 da3",
     "num": "-"
   },
   {
