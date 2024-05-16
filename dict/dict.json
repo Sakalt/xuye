@@ -1213,7 +1213,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "ルアード系民族。",
+        "explanation": "ルアード系民族。ルアード人",
       }
     ],
     "append": [
@@ -1257,7 +1257,7 @@
       }
     ],
     "pron": "kuas1 da3",
-    "num": "-"
+    "num": "43"
   },
   {
     "word": "行",
@@ -1278,7 +1278,7 @@
       }
     ],
     "pron": "yaom1",
-    "num": "43"
+    "num": "44"
   },
   {
     "word": "行元",
