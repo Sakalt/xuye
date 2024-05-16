@@ -1277,7 +1277,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1",
+    "pron": "yaom2",
     "num": "44"
   },
   {
@@ -1294,11 +1294,11 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 xo3",
+    "pron": "yaom1 yuon2",
     "num": "-"
   },
   {
-    "word": "行場",
+    "word": "行目",
     "mean": [
       {
         "partOfSpeech": "名",
@@ -1315,7 +1315,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yaom1 yai1",
+    "pron": "yaom1 ke1",
     "num": "-"
   },
   {
@@ -1353,7 +1353,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1",
+    "pron": "fua3",
     "num": "45"
   },
   {
@@ -1370,7 +1370,7 @@
         "explanation": "今。こちらは現在の時間をピンポイントに指すが、之時は時間軸をある特定の基準で区切ったときの「現在」の部分を指す。"
       }
     ],
-    "pron": "kua1 tua2",
+    "pron": "fua3 luong",
     "num": "-"
   },
   {
@@ -1387,7 +1387,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 kuang1",
+    "pron": "fua3 kaing2",
     "num": "-"
   },
   {
@@ -1404,7 +1404,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 lai1",
+    "pron": "fua3 ye2",
     "num": "-"
   },
   {
@@ -1421,7 +1421,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kua1 fuon2",
+    "pron": "kua1 lai2",
     "num": "-"
   },
   {
