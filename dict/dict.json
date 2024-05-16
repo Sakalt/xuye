@@ -1230,7 +1230,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "足。脚。"
+        "explanation": "足。"
       }
     ],
     "append": [
@@ -1239,8 +1239,25 @@
         "explanation": ""
       }
     ],
-    "pron": "kuas1",
+    "pron": "kuom1",
     "num": "42"
+  },
+  {
+    "word": "足下",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "足の裏。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "kuom1 da3",
+    "num": "-"
   },
   {
     "word": "行",
