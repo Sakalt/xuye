@@ -4,7 +4,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "人。人間。中球人。"
+        "explanation": "人。人間。天球人。"
       }
     ],
     "append": [
@@ -13,75 +13,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nai1",
+    "pron": "ｎa1",
     "num": "1"
-  },
-  {
-    "word": "倫人",
-    "mean": [
-      {
-        "partOfSpeech": "名",
-        "explanation": "偉人。偉大な人。"
-      }
-    ],
-    "append": [
-      {
-        "type": "",
-        "explanation": ""
-      }
-    ],
-    "pron": "kuo2 nai1",
-    "num": "2"
-  },
-  {
-    "word": "皇人",
-    "mean": [
-      {
-        "partOfSpeech": "名",
-        "explanation": "皇帝。王。"
-      }
-    ],
-    "append": [
-      {
-        "type": "",
-        "explanation": ""
-      }
-    ],
-    "pron": "man4 nai1",
-    "num": "3"
-  },
-  {
-    "word": "王人",
-    "mean": [
-      {
-        "partOfSpeech": "名",
-        "explanation": "王。王様。"
-      }
-    ],
-    "append": [
-      {
-        "type": "",
-        "explanation": ""
-      }
-    ],
-    "pron": "se2 nai1",
-    "num": "4"
-  },
-  {
-    "word": "国倫人",
-    "mean": [
-      {
-        "partOfSpeech": "名",
-        "explanation": "総理大臣。大統領。"
-      }
-    ],
-    "append": [
-      {
-        "type": "",
-        "explanation": ""
-      }
-    ],
-    "pron": "lua3 kuo2 nai1",
-    "num": "5"
   },
 ]
