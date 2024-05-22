@@ -13,7 +13,41 @@
         "explanation": ""
       }
     ],
-    "pron": "ｎa1",
+    "pron": "na1",
     "num": "1"
   },
-]
+  {
+    "word": "王人",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "王様。王。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "qim1 na1",
+    "num": "2"
+  },
+  {
+    "word": "皇人",
+    "mean": [
+      {
+        "partOfSpeech": "名",
+        "explanation": "人。人間。天球人。"
+      }
+    ],
+    "append": [
+      {
+        "type": "",
+        "explanation": ""
+      }
+    ],
+    "pron": "luong3 na1",
+    "num": "3"
+  },
+],
